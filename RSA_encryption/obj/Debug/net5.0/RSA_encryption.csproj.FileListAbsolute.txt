@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\bin\Debug\net5.0\RSA_encryption.exe
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\bin\Debug\net5.0\RSA_encryption.deps.json
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\bin\Debug\net5.0\RSA_encryption.runtimeconfig.json
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\bin\Debug\net5.0\RSA_encryption.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\bin\Debug\net5.0\RSA_encryption.dll
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\bin\Debug\net5.0\RSA_encryption.pdb
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\RSA_encryption.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\RSA_encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\RSA_encryption.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\RSA_encryption.AssemblyInfo.cs
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\RSA_encryption.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\RSA_encryption.dll
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\refint\RSA_encryption.dll
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\RSA_encryption.pdb
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\RSA_encryption.genruntimeconfig.cache
+C:\Users\aleks\source\repos\RSA_encryption\RSA_encryption\obj\Debug\net5.0\ref\RSA_encryption.dll
